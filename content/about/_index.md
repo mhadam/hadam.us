@@ -5,6 +5,4 @@ title = "About"
 
 +++
 
-I'm Michael Hadam. I'm an engineer; I studied electrical and computer engineering. Some of my favorite things are: learning languages, board games, cooking, film, literature (Latin American, in particular), rock-climbing, biking, and running.
-
-<br />
+Hi! I spend most of my time working on software. When I'm not doing that, some of my favorite things are: learning languages, board games, cooking, film, literature (Latin American, in particular), rock-climbing, biking, and running.
