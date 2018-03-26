@@ -5,3 +5,5 @@ title = "Code"
 
 +++
 
+### [Clutch](https://github.com/mhadam/clutch)
+A library I rehabilitated and now continue maintaining. It's an RPC library for [Transmission](https://transmissionbt.com). The ultimate goal is to leverage this in a GUI client for managing torrents. Py2 and Py3 compatible.
